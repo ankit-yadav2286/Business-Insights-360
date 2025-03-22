@@ -1,5 +1,18 @@
-# Business Insights 360 for AtliQ Hardware - Power BI Project 📈💻
-This interactive Power BI dashboard provides insights into [mention key focus, e.g., sales performance, financial trends, customer behavior], helping businesses optimize their strategies.
+# Business Insights 360 – Power BI Project 🚀
+Welcome to the Business Insights 360 repository! This project is a comprehensive Power BI dashboard designed to empower AtliQ Hardware with data-driven decision-making across Finance, Sales, Marketing, and Supply Chain.
+
+## 📌 Overview
+Business Insights 360 is an advanced Power BI solution that provides deep insights into key business functions, helping AtliQ Hardware optimize operations and maximize profitability.
+
+##🔹 Features
+* Finance View – Revenue, expenses, and profit margin insights.
+* Sales View – Product performance and customer analytics.
+* Marketing View – Data-driven strategies for targeted marketing.
+* Supply Chain View – Key supply chain efficiency metrics.
+* Executive View – High-level metrics for leadership decision-making.
+
+## Live Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiYTU0ZmYyZWItZDMyZi00Nzg0LWJmNjAtNjU3ZGY2OWU4NWE1IiwidCI6IjRiODVjMTVkLTQ0ZTktNDY0MC1hNzI4LTc0Yjk4NzJkM2Q3ZCJ9
 
 ## Tech Stack Used
 📊 Excel 💻 Power BI Desktop 🗃️ SQL 📈 DAX Language
